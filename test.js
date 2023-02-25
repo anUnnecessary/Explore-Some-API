@@ -1,7 +1,7 @@
 const myObj = {
   id: 1,
   name: "Shamil",
-  job: "Web Instructor",
+  job: "Junior Web Learner",
 };
 console.log(Object.keys(myObj));
 
